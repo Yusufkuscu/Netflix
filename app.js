@@ -90,7 +90,6 @@ const slider_load = () => {
 setInterval(slider_load, 15000)
 slider_load();
 
-
 // video control start
 
 let plays = document.getElementById('play');
