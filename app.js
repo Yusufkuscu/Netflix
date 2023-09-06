@@ -1058,7 +1058,7 @@ const movies = [{
     genre11: "horor",
     year: 2020,
     rate: 8.6,
-    url: "bfg.html",
+    url: "warrior.webp",
     tppr: "popular",
     msot: "movie"
 },
